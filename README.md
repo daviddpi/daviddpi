@@ -25,8 +25,3 @@ Lover of technology, passionate Coder, and i love learning new technologies.
 <img align='left' alt='php' title="PHP" src="http://pngimg.com/uploads/php/php_PNG48.png" width='35'>
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width='35'>
-
-<br/>
-<br/>
-
----
