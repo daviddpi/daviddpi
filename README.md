@@ -25,6 +25,8 @@ Lover of technology, passionate Coder, and i love learning new technologies.
 <img align='left' alt='php' title="PHP" src="https://www.vhv.rs/dpng/d/543-5437498_mysql-logo-png-transparent-php-logo-png-png.png" width='35'>
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" width='35'>
+<img align='left' alt='mySql' title="MySQL" src="https://w7.pngwing.com/pngs/732/675/png-transparent-mysql-database-dump-computer-icons-others-miscellaneous-blue-text-thumbnail.png" width='35'>
+
 <br/>
 <br/>
 
