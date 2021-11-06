@@ -22,7 +22,7 @@ Lover of technology, passionate Coder, and i love learning new technologies.
 <img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/> 
 <img align='left' alt='vue' title="Vue.js" src="https://www.geekandjob.com/uploads/wiki/f236a1aa005ef9a93041f294749e86d1.png" width='35'>
 <img align='left' alt='sass' title="SASS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
-<img align='left' alt='php' title="PHP" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunGUSJUd4U2Tccp6KRamz46QsV18h5Qr9FfA9ZIpNGHhjPSac93yzjCAgsHWRjWqh5RA&usqp=CAU" width='35'>
+<img align='left' alt='php' title="PHP" src="http://pngimg.com/uploads/php/php_PNG48.png" width='35'>
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width='35'>
 
