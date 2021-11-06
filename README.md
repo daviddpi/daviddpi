@@ -1,8 +1,8 @@
 ### Hi 👋, I'm [David Piscopo](https://github.com/daviddpi)
 
-Lover of technology, passionate Coder, and i love learning new technologies.
+Lover of technology, passionate coder, and i love learning new technologies.
 
--now i’m currently learning laravel.
+-now i’m currently learning *Laravel*.
 -next i want to learn *Angular* and *React* how framework
 
 ---
