@@ -2,7 +2,7 @@
 
 Lover of technology, passionate coder and i love learning new technologies.
 
--Now i’m currently learning *Laravel*. </br>
+-Now i’m currently learning *Jquery*. </br>
 -Next i want to learn *Angular* and *React* how framework
 
 ---
