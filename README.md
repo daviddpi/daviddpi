@@ -20,8 +20,7 @@ Lover of technology, passionate coder and i love learning new technologies.
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width='35'>
 <img align='left' alt='javascript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <!-- <img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>  -->
-<img align='left' alt='jqury' title="Jquery" src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png
-" width='35'/> 
+<img align='left' alt='jqury' title="Jquery" src="https://e7.pngegg.com/pngimages/662/163/png-clipart-jquery-logo-web-development-jquery-ui-javascript-computer-icons-jqlogo-emblem-label.png" width='35'/> 
 
 <img align='left' alt='vue' title="Vue.js" src="https://www.geekandjob.com/uploads/wiki/f236a1aa005ef9a93041f294749e86d1.png" width='35'>
 <img align='left' alt='sass' title="SASS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
