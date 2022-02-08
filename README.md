@@ -20,7 +20,7 @@ Lover of technology, passionate coder and i love learning new technologies.
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width='35'>
 <img align='left' alt='javascript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <!-- <img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>  -->
-<img align='left' alt='jqury' title="Jquery" src="https://www.seekpng.com/png/detail/388-3889671_jquery-logo-transparent.png" width='35'/> 
+<img align='left' alt='jquery' title="Jquery" src="https://banner2.cleanpng.com/20180704/zoa/kisspng-jquery-ui-javascript-web-browser-pasargad-5b3d093837a4d4.5712269815307267122279.jpg" width='35'/> 
 <img align='left' alt='vue' title="Vue.js" src="https://www.geekandjob.com/uploads/wiki/f236a1aa005ef9a93041f294749e86d1.png" width='35'>
 <img align='left' alt='sass' title="SASS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
 <img align='left' alt='php' title="PHP" src="http://pngimg.com/uploads/php/php_PNG48.png" width='35'>
