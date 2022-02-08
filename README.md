@@ -20,7 +20,7 @@ Lover of technology, passionate coder and i love learning new technologies.
 <img align='left' alt='bootstrap' title="Bootstrap" src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" width='35'>
 <img align='left' alt='javascript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <!-- <img align='left' alt='node' title="Node.js" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" width='35'/>  -->
-<img align='left' alt='jquery' title="Jquery" src="https://e7.pngegg.com/pngimages/305/66/png-clipart-jquery%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88%E7%AF%84%E4%BE%8B%E6%95%99%E5%AD%B8-logo-product-design-brand-design-web-design-text.png" width='35'/> 
+<img align='left' alt='jquery' title="Jquery" src="https://w1.pngwing.com/pngs/306/12/png-transparent-ajax-logo-jquery-javascript-javascript-library-github-foundation-angularjs-yii.png" width='35'/> 
 <img align='left' alt='vue' title="Vue.js" src="https://www.geekandjob.com/uploads/wiki/f236a1aa005ef9a93041f294749e86d1.png" width='35'>
 <img align='left' alt='sass' title="SASS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
 <img align='left' alt='php' title="PHP" src="http://pngimg.com/uploads/php/php_PNG48.png" width='35'>
