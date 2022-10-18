@@ -24,3 +24,4 @@ Lover of technology, passionate coder and i love learning new technologies.
 <img align='left' alt='php' title="PHP" src="http://pngimg.com/uploads/php/php_PNG48.png" width='35'>
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width='35'>
+<img align='left' alt='Wordpress' title="Wordpress" src="[https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png)" width='35'>
