@@ -12,7 +12,11 @@ Lover of technology, passionate coder and i love learning new technologies.
 ---
 
 *Languages / Tools:*
-
+<div style="
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+">
 <img align='left' alt='git' title="Git" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png" width='35'>
 <img align='left' alt='html' title="HTML 5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width='35'>
 <img align='left' alt='css' title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width='35'>
@@ -25,3 +29,4 @@ Lover of technology, passionate coder and i love learning new technologies.
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width='35'>
 <img align='left' alt='Wordpress' title="Wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/2048px-WordPress_blue_logo.svg.png" width='35'>
+</div>
