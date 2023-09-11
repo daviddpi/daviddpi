@@ -20,7 +20,7 @@ Lover of technology, passionate coder and i love learning new technologies.
 <img align='left' alt='javascript' title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width='35'>
 <img align='left' alt='jquery' title="Jquery" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" width='35'/> 
 <img align='left' alt='vue' title="Vue.js" src="https://www.geekandjob.com/uploads/wiki/f236a1aa005ef9a93041f294749e86d1.png" width='35'>
-<img align='left' alt='sass' title="SASS" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width='35'>
+<img align='left' alt='sass' title="SASS" src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" width='35'>
 <img align='left' alt='php' title="PHP" src="http://pngimg.com/uploads/php/php_PNG48.png" width='35'>
 <img align='left' alt='laravel' title="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width='35'>
 <img align='left' alt='mySql' title="MySQL" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" width='35'>
