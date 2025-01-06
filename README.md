@@ -2,7 +2,7 @@
 
 Lover of technology, passionate coder and i love learning new technologies.
 
--Now i’m currently learning *React*. </br>
+-Now i’m currently learning *Framer Motion*. </br>
 
 ---
 
